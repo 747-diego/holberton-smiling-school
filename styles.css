@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "holberton_school-icon";
+    src: url("fonts/holberton_school-icon.eot");
+    src: url("fonts/holberton_school-icon.woff") format("woff"),
+    url("fonts/holberton_school-icon.ttf") format("ttf"),
+    url("fonts/holberton_school-icon.svg") format("svg");
+}
+
+
+body {
+
+    background-repeat: no-repeat;
+    background-color: #071629;
+    background-size: 100%, auto;
+    
+}
+
+
+/* BACKGROUND IMAGES  */
+body.smiles-pic {
+    background-image: url(images/pic_1.jpg);
+}
+
+
+
+nav a {
+    font-size: 15px;
+}
+
+
+h1, h2, h3, h4, h5, h6, a, p, span {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1 {
+    font-size: 65px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+
+.pro-color {
+    color: #c371ff;
+}
+.button-color {
+    background-color: #c371ff;
+}
+
+img.pro-pic {
+    width: 150px;
+    height: 150px;
+}
+
+img.smiles {
+    height: 30px;
+}
+
+
+
